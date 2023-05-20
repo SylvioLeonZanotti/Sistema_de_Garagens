@@ -14,3 +14,11 @@ Mas caso opte por usar o sistema apenas por interface para que não precise aden
 Este script conta com um arquivo "Config.lua" que serve para personalizar os interiores, marcadores de blips pelo mapa, localizações de vagas e muito mais! Abaixo você pode conferir um preview deste config.
 
 ![Screenshot_2](https://github.com/SylvioLeonZanotti/Harry_Garage/assets/123652053/6de116eb-3fde-4110-9cb2-231aa14e3c68)
+
+O sistema desta garagem já conta também com comandos de consertar o veículo (/fix), deletar veículo (/dv) e comandos para adicionar veículos a garagens de players e remover (/addcar e /remcar).
+Também é possível utilizar sistema de rastreio dos veículos após a retirada da garagem, caso a opção "harry.GPSCarro" esteja como TRUE todos os veículos que o player possuir que estiverem fora da garagem serão marcados no mapa da cidade com seu respectivo nome.
+
+# interiores
+
+Também é possível adicionar novos interiores como opções para as garagens de forma fácil e rápida, abaixo um preview;
+![Screenshot_3](https://github.com/SylvioLeonZanotti/Harry_Garage/assets/123652053/f97009ef-e0f5-4136-ab20-338740e867b7)
