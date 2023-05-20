@@ -21,4 +21,7 @@ Também é possível utilizar sistema de rastreio dos veículos após a retirada
 # interiores
 
 Também é possível adicionar novos interiores como opções para as garagens de forma fácil e rápida, abaixo um preview;
+
 ![Screenshot_3](https://github.com/SylvioLeonZanotti/Harry_Garage/assets/123652053/f97009ef-e0f5-4136-ab20-338740e867b7)
+
+Com esta opção é possível que você utilize interiores próprios ou de terceiros como localiações para suas garagens, quando adicionado um novo interior basta atribuir a este um número sequencial como "interior_5" para que seja reconhecido pelo sistema de forma correta. 
